@@ -1,5 +1,5 @@
 ﻿
-**Les ulleres de Manovich**
+# **Les ulleres de Manovich**
 	
 		    Lo que quiere decir estas ulleres es una referencia a como cambia 
 		    la tecnologia y como va evolucionando a medida que pasa el tiempo
@@ -8,7 +8,7 @@
 		    cosas que se pueden utilizar en distintas aplicaciones
 
 
-**Google Hearth**
+# **Google Hearth**
 					
 			Google Hearth es un buen ejemplo de hibridación ya que combina muchos 	
 			elementos que hacen una representacion hibrida como puede llegar a
@@ -16,7 +16,7 @@
 			crearon una interfaz 3D de nuestro planeta tierra, todo esto de man-
 			era interactiva para el usuario
 	  	 	 
-**Mappr**
+# **Mappr**
 
 			Mappr tambien es otro buen ejemplo ya que tambien era un mapa el
 			cual combinaba fotos de una pagina llamada Flickr, la aplicacion
