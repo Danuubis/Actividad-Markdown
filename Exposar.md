@@ -1,7 +1,7 @@
 ﻿
 
 
-**Contenido Expo**
+# **Contenido Expo**
 El texto habla sobre El primer metamedio que kay y gondelberg se estaba transformando lentamente en realidad sobre el 1977, a parte se estaban inventando una serie de medios informaticos sin precedentes fisico, como son los espacios 3D navegables e interactivos,
 la multimedia interactiva, hipertexto y hipermedia, cine narrativo interactivo, internet, www, los medios sociales, etc.
 Se introdujeron nuevas tecnicas de gestion de datos, y lo mas importante todos los ordenadores en los 90 tenian la capacidad de ejecutar estos medios.
