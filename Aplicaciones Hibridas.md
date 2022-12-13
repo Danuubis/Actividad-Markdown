@@ -8,14 +8,6 @@
 		    cosas que se pueden utilizar en distintas aplicaciones
 
 
-
-
-
-
-
-
-
-
 **Google Hearth**
 					
 			Google Hearth es un buen ejemplo de hibridación ya que combina muchos 	
